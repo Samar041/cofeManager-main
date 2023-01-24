@@ -1,0 +1,3 @@
+###### fi souret maaaaaa tal3etlek  node erro haw lcmd lansaha fel doussie ali enti fih kima 3malt ani taw
+### el error ahaya  bech ta3rafha (digital envelope routines::unsupported)
+set NODE_OPTIONS=--openssl-legacy-provider 
